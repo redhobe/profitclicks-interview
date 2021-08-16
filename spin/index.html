@@ -1,0 +1,32 @@
+
+    <style>
+        .square {
+            background: red;
+            width: 100px;
+            height: 100px;
+            animation: rotate 1s linear infinite;
+        }
+        .triangle {
+            width: 0;
+            height: 0;
+            border-left: 60px solid transparent;
+            border-right: 60px solid transparent;
+            border-bottom: 100px solid #24375B;
+            animation: rotate-reverse 1s linear infinite;
+        }
+
+        @keyframes rotate {
+            from {
+                transform: rotate(360deg);
+            }
+        }
+        @keyframes rotate-reverse {
+            from {
+                transform: rotate(-360deg);
+            }
+        }
+
+    </style>
+
+<div class="square rotate"></div>
+<div class="triangle rotate"></div>
