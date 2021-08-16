@@ -3,5 +3,5 @@
 
 ### Ссылка на файл с заданием
 ```
-[Полное задание в PDF (976KB)](https://github.com/redhobe/profitclicks-interview/test-task.pdf)
+[Полное задание в PDF (976KB)](https://cdn.jsdelivr.net/gh/redhobe/mv-data@718c66442a60dedca27b0e4a650a194c6a52e360/files/test-task.pdf)
 ```
